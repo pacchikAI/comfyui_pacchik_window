@@ -1,5 +1,8 @@
 A simple ComfyUI node that takes any window you have as an Input to ComfyUI node (WORKS IN WINDOWS ONLY <-- No pygetwindow for Linux sorry)
 
+1. Download to  custom_nodes folder
+2. Install the requirements.txt
+
 <img width="849" height="660" alt="image" src="https://github.com/user-attachments/assets/308797e0-a9bf-482a-93db-2bee6cbdc00d" />
 
 Click on the "Window" and it will  will show you a drop down of all the windows currently open. If you don't see your window, refresh the page and you will be able to see it. 
