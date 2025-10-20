@@ -14,3 +14,6 @@ To get ComfyUI to continously refresh changes in the window, choose this option
 IMPORTANT NOTE TO REMEMBER: YOUR WINDOW NEEDS TO BE VISBLE. Windows will now allow me to automatically activate the window so ensure that your window is visible to capture. 
 
 
+
+![pacchik_window](https://github.com/user-attachments/assets/9758c7de-b8c1-4560-9e26-029d6ad2b97b)
+
