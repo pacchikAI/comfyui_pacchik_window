@@ -9,3 +9,8 @@ SEED and SEED CONTROL are for continous refresh.
 
 To get ComfyUI to continously refresh changes in the window, choose this option
 <img width="417" height="107" alt="image" src="https://github.com/user-attachments/assets/aabf43c4-f6cf-4611-ae4b-46993f02c6e0" />
+
+
+IMPORTANT NOTE TO REMEMBER: YOUR WINDOW NEEDS TO BE VISBLE. Windows will now allow me to automatically activate the window so ensure that your window is visible to capture. 
+
+
