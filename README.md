@@ -3,10 +3,25 @@ A simple ComfyUI node that takes any window you have as an Input to ComfyUI node
 1. Download to  custom_nodes folder
 2. Install the requirements.txt
 
-<img width="849" height="660" alt="image" src="https://github.com/user-attachments/assets/308797e0-a9bf-482a-93db-2bee6cbdc00d" />
+**Select Window Dropdown**
 
-Click on the "Window" and it will  will show you a drop down of all the windows currently open. If you don't see your window, refresh the page and you will be able to see it. 
-Left, Top, Right and Bottom Ignore are to pad anything you don't want captured in the window. 
+Use this to get a dropdown of all the windows currently open. You will need to refresh the page if the window option is not available
+
+<img width="895" height="586" alt="image" src="https://github.com/user-attachments/assets/ac2a0890-1cba-4bc4-8d6e-14c230ae7968" />
+
+**Select Window Text**
+
+Use this to type the name of the window if the window changes "use * windowname *" (Example: if you are viewing a png file in an image viewer and the name of the window changes when you change). This also inputs the top,bottom, height and width of the location of the window on screen, to be used with **Select Window JSON** as its input
+
+<img width="1454" height="601" alt="image" src="https://github.com/user-attachments/assets/08ea5e0d-9e10-41b7-8405-567600653e46" />
+
+**Select Window Json**
+
+Use this with the input of the **SCREEN LOCATION** from the **Select Window Text** in order to keep the location consistent. 
+
+<img width="1149" height="612" alt="image" src="https://github.com/user-attachments/assets/e54ce078-f703-45b5-ad0c-a00b992f8087" />
+
+
 
 SEED and SEED CONTROL are for continous refresh.
 
